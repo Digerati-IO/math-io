@@ -4,6 +4,7 @@
     "keywords": ["websocket", "server", "math", "socket_select", "event", "libevent", "yii", "laravel"],
     "require": {
         "php": ">=7.0.0",
+        "ext-mbstring": "*",
         "morozovsk/websocket": "*",
         "markrogoyski/math-php": "0.*",
         "slim/slim": "^3.0"

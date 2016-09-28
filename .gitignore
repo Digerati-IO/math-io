@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+/vendor/pimple/
+/vendor/slim/
+/vendor/nikic/
+/vendor/container-interop/
+/vendor/markrogoyski/
+/vendor/morozovsk/
+/vendor/psr/

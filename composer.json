@@ -1,0 +1,20 @@
+{
+    "name": "Math IO",
+    "description": "A simple PHP websocket server with Math functionality.",
+    "keywords": ["websocket", "server", "math", "socket_select", "event", "libevent", "yii", "laravel"],
+    "require": {
+        "php": ">=7.0.0",
+        "morozovsk/websocket": "*",
+        "markrogoyski/math-php": "0.*",
+        "slim/slim": "^3.0"
+    },
+    "version": "0.0.1",
+    "license": "MIT",
+    "homepage": "http://math.digerati.io",
+    "authors": [
+        {"name": "Rob Voss", "homepage": "http://robvoss.me"}
+    ],
+    "support": {
+        "issues": "https://github.com/Digerati-IO/math-io/issues"
+    }
+}
